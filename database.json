@@ -1,0 +1,13 @@
+{
+  "allowedIps": ["ho.oh"],
+  "users": [
+    {
+      "username": "oredigital",
+      "password": "oredigital09"
+    },
+    {
+      "username": "oreoffc",
+      "password": "oreoffc123"
+    }
+  ]
+}
